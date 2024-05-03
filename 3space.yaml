@@ -1,0 +1,5 @@
+train: /home/ubuntu/aicr/nasa/yolov8n/data/images/train  
+val: /home/ubuntu/aicr/nasa/yolov8n/data/images/val  
+
+nc: 1
+names: ['spaceship']
